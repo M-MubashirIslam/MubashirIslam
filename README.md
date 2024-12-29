@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Muhammad Mubashir Islam 
-- 👀 I’m interested in programming and coding 
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on c++
-- 📫 my email is mubashirislam763@gmail.com and mmi.revival@gmail.com
+- 👋 My name is Muhammad Mubashir Islam 
+- 👀 I am student of Computer Science at National Universty of Computing and Emerging Sciences - FAST Islamabad [2023-2027].
+- 🌱 Yet I have programmed in c++ and assembly language.
+- 💞️ I am open to collaborate on any related projects.
+- 📫 you can reach me out at mmi.revival@gmail.com
 - 😄 Pronouns: He / Mr
 
 <!---
