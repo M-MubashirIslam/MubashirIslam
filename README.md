@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on c++
 - 📫 my email is mubashirislam763@gmail.com and mmi.revival@gmail.com
-- 😄 Pronouns: Ralph 
+- 😄 Pronouns: He / Mr
 
 <!---
 Mubashir732/Mubashir732 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
